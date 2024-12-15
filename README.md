@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # storytelling
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Story-Telling-App
+>>>>>>> be9f56aaee71eb690ee103dd662e79e5896b15a4
